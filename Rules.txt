@@ -1,0 +1,11 @@
+...Layer Init: Means, the Layer that is considered has been created, committed and pushed for once.
+
+...Layer Alpha x.y: Means, the Layer that is considered has been updated x multiplication y times where y < 10. But did not work as requested in the run.
+
+...Layer Beta x.y: Means, the Layer that is considered is working as requested x multiplication y times where y < 10. But did not go for online and did not tried with other layers yet.
+
+ABC Live x.y: Means, the Project is live and works as requested. Where ABC is the name of Project. X and Y is update count after live.
+
+HotFixes:
+...Layer ... Hotfix x.y
+... Live ... Hotfix x.y
